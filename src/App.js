@@ -8,11 +8,15 @@ import {Badge} from "primereact/badge";
 
 function App() {
   return (
-    <div className="p-d-flex p-jc-center p-ai-center">
-      <Avatar image="/logo512.png" size="xlarge">
-        <Badge value="4" severity="danger"/>
-      </Avatar>
-      <p>Testing LinkFree</p>
+    <div className="p-m-4">
+      <div className="p-d-flex p-jc-center p-ai-center">
+        <Avatar image="/logo512.png" size="xlarge" shape="circle" className="p-overlay-badge">
+          <Badge value="4" severity="info"/>
+        </Avatar>
+      </div>
+      <div className="p-d-flex p-jc-center">
+        <p>Testing LinkFree</p>
+      </div>
     </div>
   );
 }
