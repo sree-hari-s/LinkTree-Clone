@@ -6,6 +6,8 @@ function Links({ links }) {
         github: "black",
         twitter: "blue",
         youtube: "red",
+        linkedin: "white",
+        instagram: "maroon",
     };
     return (
         <div className="p-d-flex p-jc-center">
