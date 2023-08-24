@@ -15,7 +15,7 @@ function Socials() {
         links: [],
     });
     useEffect(() => {
-        fetch(`/React-test/data/${username}.json`)
+        fetch(`/data/${username}.json`)
             .then((response) => response.json())
             .then((data) => setProfile(data));
     }, [username]);
