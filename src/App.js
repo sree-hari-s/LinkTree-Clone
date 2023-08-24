@@ -20,7 +20,7 @@ function App() {
   });
 
   useEffect(() => {
-    fetch("/data/sree-hari-s.json")
+    fetch("/React-test/data/sree-hari-s.json")
       .then((response) => response.json())
       .then((data) => setProfile(data));
   }, []);
