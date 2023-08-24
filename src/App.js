@@ -12,6 +12,7 @@ function App() {
     <div className="p-m-4">
       <Router>
         <Routes>
+        <Route path="/" element={<Socials />}></Route>
           <Route path="/:username" element={<Socials />}></Route>
         </Routes>
       </Router>
