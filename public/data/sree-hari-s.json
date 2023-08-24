@@ -4,14 +4,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/48482060?v=4",
     "links": [
         {
-        "name": "Follow me on Github",
-        "url": "https://github.com/sree-hari-s",
-        "icon": "github"
-    },
-    {
-        "name": "Follow me on Youtube",
-        "url": "https://github.com/sree-hari-s",
-        "icon": "youtube"
-    }
+            "name": "Follow me on Github",
+            "url": "https://github.com/sree-hari-s",
+            "icon": "github"
+        },
+        {
+            "name": "Follow me on Youtube",
+            "url": "https://github.com/sree-hari-s",
+            "icon": "youtube"
+        }
     ]
 }
