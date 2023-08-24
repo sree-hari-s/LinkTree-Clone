@@ -7,12 +7,12 @@ Welcome to the LinkTree Basic Clone! Here's how you can get started:
 
 1. **Clone the repository:**
    ```
-   git clone https://github.com/sree-hari-s/React-test
+   git clone https://github.com/sree-hari-s/LinkFree-Clone
    ```
 
 2. **Navigate to the project directory:**
    ```
-   cd React-test
+   cd LinkFree-Clone
    ```
 
 3. **Install Dependencies:**
