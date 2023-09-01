@@ -36,9 +36,3 @@ You can customize the content of your portfolio by duplicating the `sree-hari-s.
 
 If you'd like to contribute to this project, feel free to open pull requests! Contributions are welcome, whether it's fixing bugs, improving the design, or adding new features.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-```
-
-Remember to replace `"your-username"` with your actual GitHub username. This will guide users on how to fork, clone, and set up the project for customization and contribution.
