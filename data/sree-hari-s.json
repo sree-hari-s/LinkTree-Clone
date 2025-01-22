@@ -1,0 +1,27 @@
+{
+    "name": "Sreehari S",
+    "bio": "Practicing Open Source Contribution",
+    "avatar": "https://avatars.githubusercontent.com/u/48482060?v=4",
+    "links": [
+      {
+        "name": "Follow me on Twitter",
+        "url": "https://twitter.com/sreehari__s",
+        "icon": "twitter"
+      },
+      {
+        "name": "Follow me on Instagram",
+        "url": "https://www.instagram.com/______aegon______/",
+        "icon": "instagram"
+      },
+      {
+        "name": "Follow me on Linkedin",
+        "url": "https://www.linkedin.com/in/sreehari-s-1680/",
+        "icon": "linkedin"
+      },
+      {
+        "name": "Follow me on Github",
+        "url": "https://github.com/sree-hari-s",
+        "icon": "github"
+      }
+    ]
+  }
